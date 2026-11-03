@@ -1,9 +1,9 @@
-#Interactive Commerce App
+## Interactive Commerce App
 
-#Project Objective: 
+## Project Objective: 
 Create an interactive mobile shopping interface that uses scrolling and navigation.
 
-#Design Process:
+## Design Process:
 - Learned basic scrolling and interactive navigation flow techniques in Figma.
 - Applied visual hierarchy and consistent design patterns for ease of use.
 - Developed a high-fidelity prototype to navigate through stages of the shopping experience.
